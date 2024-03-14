@@ -1,0 +1,12 @@
+{
+  "name": "new_game",
+  "uuid": "2dd0fde4-17fc-4e6a-9f16-83cd09b36079",
+  "creator": {
+    "version": "3.7.4"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk": "^0.0.35",
+    "@onechaintech/gamesdk-beta": "^0.0.18",
+    "@onechaintech/gamesdk-dev": "^0.0.35"
+  }
+}

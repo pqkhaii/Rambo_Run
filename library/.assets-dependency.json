@@ -1,0 +1,42 @@
+{
+  "path": {
+    "D:\\SourceGame\\Rambo_Run\\assets\\Game\\Logo\\LogoAnim\\logo.skel": [
+      "D:\\SourceGame\\Rambo_Run\\assets\\Game\\Logo\\LogoAnim\\logo.atlas"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\Anim\\enemy1.json": [
+      "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\Anim\\enemy1.atlas"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\Anim\\character.json": [
+      "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\Anim\\character.atlas"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\character\\enemy1.json": [
+      "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\character\\enemy1.atlas"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\character\\character.json": [
+      "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\character\\character.atlas"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\enemyFly\\enemy_bird.json": [
+      "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\enemyFly\\enemy_bird.atlas"
+    ]
+  },
+  "uuid": {
+    "D:\\SourceGame\\Rambo_Run\\assets\\Game\\Logo\\LogoAnim\\logo.skel": [
+      "1de672da-6dd1-4e74-8059-a0fb6c0d6398@6c48a"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\Anim\\character.json": [
+      "9906523f-4d3c-4378-8429-60c1e411d7f3@6c48a"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\Anim\\enemy1.json": [
+      "df6e3050-c44e-4c67-ad3d-f6a7b8d517cd@6c48a"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\character\\character.json": [
+      "3d17df64-7700-4e42-bd58-4519c384e478@6c48a"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\character\\enemy1.json": [
+      "350a10d1-4121-4870-b176-076f96544d71@6c48a"
+    ],
+    "D:\\SourceGame\\Rambo_Run\\assets\\Animations\\enemyFly\\enemy_bird.json": [
+      "c7dfc942-57cf-45e4-a552-35e24073e1fc@6c48a"
+    ]
+  }
+}

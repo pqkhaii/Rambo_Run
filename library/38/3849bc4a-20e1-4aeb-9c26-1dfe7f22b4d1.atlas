@@ -1,0 +1,146 @@
+
+character.png
+size: 1057,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AK
+  rotate: false
+  xy: 263, 123
+  size: 415, 161
+  orig: 415, 161
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 56
+  size: 185, 228
+  orig: 189, 228
+  offset: 4, 0
+  index: -1
+Necklace
+  rotate: false
+  xy: 429, 8
+  size: 79, 113
+  orig: 83, 113
+  offset: 0, 0
+  index: -1
+arm l
+  rotate: false
+  xy: 189, 57
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+foot l
+  rotate: false
+  xy: 94, 3
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+foot r
+  rotate: false
+  xy: 2, 2
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 510, 12
+  size: 109, 146
+  orig: 111, 146
+  offset: 1, 0
+  index: -1
+head2
+  rotate: true
+  xy: 658, 12
+  size: 109, 146
+  orig: 111, 146
+  offset: 1, 0
+  index: -1
+hip
+  rotate: true
+  xy: 761, 138
+  size: 146, 102
+  orig: 146, 102
+  offset: 0, 0
+  index: -1
+left finger
+  rotate: true
+  xy: 267, 57
+  size: 64, 36
+  orig: 65, 37
+  offset: 1, 0
+  index: -1
+leg l
+  rotate: false
+  xy: 865, 148
+  size: 87, 136
+  orig: 87, 145
+  offset: 0, 9
+  index: -1
+leg r
+  rotate: false
+  xy: 954, 161
+  size: 97, 123
+  orig: 99, 125
+  offset: 1, 1
+  index: -1
+palm L
+  rotate: false
+  xy: 935, 21
+  size: 72, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+red ribbon 1
+  rotate: true
+  xy: 895, 21
+  size: 125, 38
+  orig: 125, 38
+  offset: 0, 0
+  index: -1
+red ribbon 2
+  rotate: false
+  xy: 184, 10
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: true
+  xy: 189, 120
+  size: 164, 72
+  orig: 164, 72
+  offset: 0, 0
+  index: -1
+right upper arm
+  rotate: false
+  xy: 680, 132
+  size: 79, 152
+  orig: 79, 152
+  offset: 0, 0
+  index: -1
+thigh l
+  rotate: true
+  xy: 305, 8
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+thigh r
+  rotate: false
+  xy: 806, 8
+  size: 87, 128
+  orig: 87, 128
+  offset: 0, 0
+  index: -1
+uper arm l
+  rotate: true
+  xy: 935, 61
+  size: 85, 120
+  orig: 86, 121
+  offset: 1, 0
+  index: -1

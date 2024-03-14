@@ -1,0 +1,111 @@
+
+enemy_bird.png
+size: 1177,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 112
+  size: 396, 414
+  orig: 396, 414
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 833, 22
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+bullet fly
+  rotate: false
+  xy: 624, 98
+  size: 207, 121
+  orig: 207, 121
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 329, 15
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+eyebrown_l
+  rotate: false
+  xy: 211, 4
+  size: 116, 48
+  orig: 116, 48
+  offset: 0, 0
+  index: -1
+eyebrown_r
+  rotate: true
+  xy: 1106, 209
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+eyewhite_l
+  rotate: false
+  xy: 1075, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eyewhite_r
+  rotate: false
+  xy: 956, 26
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+lip_b
+  rotate: false
+  xy: 624, 11
+  size: 205, 85
+  orig: 205, 86
+  offset: 0, 0
+  index: -1
+lip_t
+  rotate: false
+  xy: 2, 17
+  size: 207, 93
+  orig: 207, 93
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 400, 2
+  size: 217, 222
+  orig: 217, 222
+  offset: 0, 0
+  index: -1
+teeth_b
+  rotate: true
+  xy: 1106, 348
+  size: 178, 56
+  orig: 178, 56
+  offset: 0, 0
+  index: -1
+teeth_t
+  rotate: false
+  xy: 211, 54
+  size: 177, 56
+  orig: 177, 56
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: true
+  xy: 837, 145
+  size: 381, 267
+  orig: 381, 267
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: false
+  xy: 400, 221
+  size: 435, 305
+  orig: 435, 305
+  offset: 0, 0
+  index: -1
